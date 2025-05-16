@@ -34,6 +34,6 @@
 
 [program3b5 Stringclass output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20223252.png)
 
-[program3b5 Stringclass output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20224229.png)
+[program3c1 Stringclass output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20224229.png)
 
 
