@@ -7,3 +7,5 @@
 [program1b3 Arraylist output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20192404.png)
 
 [program1b4 Arraylist output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20193512.png)
+
+[program1b5 Arraylist output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot 2025-05-16 194917.png)
