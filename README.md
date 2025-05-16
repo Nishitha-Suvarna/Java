@@ -8,4 +8,4 @@
 
 [program1b4 Arraylist output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20193512.png)
 
-[program1b5 Arraylist output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot 2025-05-16 194917.png)
+[program1b5 Arraylist output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20194917.png)
