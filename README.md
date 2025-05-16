@@ -13,3 +13,5 @@
 [program1c1 Linkedlist output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20195903.png)
 
 [program1c2 Linkedlist output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20200730.png)
+
+[program1c3 Linkedlist output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20201445.png)
