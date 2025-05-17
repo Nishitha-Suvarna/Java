@@ -1,13 +1,13 @@
+/*Develop a Swing program in Java to add the countries USA, India, Vietnam, Canada,
+Denmark, France, Great Britain, Japan, Africa, Greenland, Singapore into a JList and
+display them on console whenever the countries are selected on the list.*/
 package githublab;
 import javax.swing.*;
-import javax.swing.event.*;
 import java.awt.*;
-import javax.swing.*;
-import javax.swing.event.*;
-import java.awt.*;
-import java.util.List;
+import java.awt.event.*;
+import java.util.LinkedHashSet;
 
-public class CountryListDemo extends JFrame {
+public class CountryListDemo  extends JFrame {
 
     String[] countries = {
         "USA", "India", "Vietnam", "Canada", "Denmark",
@@ -16,32 +16,45 @@ public class CountryListDemo extends JFrame {
     };
 
     JList<String> countryList;
+    JTextArea outputArea;
+    LinkedHashSet<String> clickedCountries = new LinkedHashSet<>();
 
     public CountryListDemo() {
         setTitle("JList Example");
-        setSize(300, 250);
+        setSize(400, 300);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        setLayout(new FlowLayout());
+        setLayout(new BorderLayout());
 
+        // JList setup
         countryList = new JList<>(countries);
         countryList.setVisibleRowCount(8);
-        countryList.setSelectionMode(ListSelectionModel.MULTIPLE_INTERVAL_SELECTION);
-        JScrollPane scrollPane = new JScrollPane(countryList);
+        countryList.setSelectionMode(ListSelectionModel.SINGLE_SELECTION); // One click at a time
+        JScrollPane listScrollPane = new JScrollPane(countryList);
 
-        countryList.addListSelectionListener(new ListSelectionListener() {
-            public void valueChanged(ListSelectionEvent e) {
-                if (!e.getValueIsAdjusting()) {
-                    List<String> selected = countryList.getSelectedValuesList();
-                    System.out.println("Selected countries:");
-                    for (String country : selected) {
-                        System.out.println("[" + country + "]");
+        // Output area
+        outputArea = new JTextArea();
+        outputArea.setEditable(false);
+        outputArea.setFont(new Font("Monospaced", Font.PLAIN, 14));
+        JScrollPane outputScrollPane = new JScrollPane(outputArea);
+
+        // Mouse listener to detect clicks
+        countryList.addMouseListener(new MouseAdapter() {
+            public void mouseClicked(MouseEvent e) {
+                int index = countryList.locationToIndex(e.getPoint());
+                if (index >= 0) {
+                    String selectedCountry = countryList.getModel().getElementAt(index);
+                    if (!clickedCountries.contains(selectedCountry)) {
+                        clickedCountries.add(selectedCountry);
+                        outputArea.append("[" + selectedCountry + "]\n");
                     }
-                    System.out.println("-----");
                 }
             }
         });
 
-        add(scrollPane);
+        // Layout
+        add(listScrollPane, BorderLayout.WEST);
+        add(outputScrollPane, BorderLayout.CENTER);
+
         setLocationRelativeTo(null); // Center window
         setVisible(true);
     }
@@ -50,6 +63,7 @@ public class CountryListDemo extends JFrame {
         new CountryListDemo();
     }
 }
+
 
 
 
