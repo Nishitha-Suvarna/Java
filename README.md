@@ -42,4 +42,6 @@
 
 [randomstringcreation  output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-17%20173451.png)
 
+[wordcounter output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-17%20174803.png)
+
 
