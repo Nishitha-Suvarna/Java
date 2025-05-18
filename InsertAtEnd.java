@@ -7,12 +7,14 @@ public class program1c3 {
 		// TODO Auto-generated method stub
 
 		LinkedList<String> ls = new LinkedList<>();
+		// Add some initial colors
 		ls.add("Orange");
 		ls.add("geen");
 		ls.add("pink");
 		ls.add("red");
 		ls.add("Blue");
 		System.out.println(ls);
+		// Insert "Pink" at the end using offerLast()
 		ls.addLast("pink");
 		System.out.println(ls);
 	
