@@ -14,7 +14,7 @@
 
 [ReverseLinkedList Linkedlist output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20200730.png)
 
-[program1c3 Linkedlist output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20201445.png)
+[InsertAtEnd Linkedlist output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20201445.png)
 
 [program1c4 Linkedlist output-link](https://github.com/user-attachments/assets/a05228a9-f201-4eb3-9c86-e91d75058d59)
 
