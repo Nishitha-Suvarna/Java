@@ -38,7 +38,7 @@
 
 [ Shortening _string Stringclass output-link]()
 
-[program3c3 Stringclass output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20230039.png)
+[Checknumeric_characters Stringclass output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20230039.png)
 
 [randomstringcreation  output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-17%20173451.png)
 
