@@ -11,6 +11,7 @@ public class program1c4 {
 		ls.add("pink");
 		ls.add("red");
 		ls.add("Blue");
+		// Display elements with their positions using l_listobj.get(p)
 		for(int i=0;i<ls.size();i++) {
 			System.out.println("index: "+i+" value:"+ls.get(i));
 		}
