@@ -13,7 +13,8 @@ public class program1c5 {
 		ls.add("Blue");
 		System.out.println("Before swapping");
 		System.out.println(ls);
-		Collections.swap(ls, 2, 3);
+		 // Swap the first (index 0) and third (index 2) elements
+		Collections.swap(ls, 0,2);
 		System.out.println("After swapping");
 		System.out.println(ls);
 	}
