@@ -20,7 +20,7 @@
 
 [SwapLinkedListElements Linkedlist output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-18%20120425.png)
 
-[program2a String Operation output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20204622.png&https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20204641.png)
+[ string operations String Operation output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20204622.png)
 
 [program2b Stringclass output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20210437.png)
 
