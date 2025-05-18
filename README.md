@@ -28,7 +28,7 @@
 
 [CountSubstring  output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20212630.png)
 
-[program3b3 Stringclass output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20221509.png)
+[ PalindromeCheck  output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20221509.png)
 
 [program3b4 Stringclass output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20222221.png)
 
