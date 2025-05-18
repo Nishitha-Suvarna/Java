@@ -24,7 +24,7 @@
 
 [StringBuffer_StringBuilder  output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20210437.png)
 
-[program3b1 Stringclass output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20211402.png)
+[StringCheck  output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20211402.png)
 
 [program3b2 Stringclass output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20212630.png)
 
