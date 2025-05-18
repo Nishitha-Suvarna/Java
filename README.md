@@ -36,7 +36,7 @@
 
 [ CapitalizingWords Stringclass output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20224229.png)
 
-[program3c2 Stringclass output-link]()
+[ Shortening _string Stringclass output-link]()
 
 [program3c3 Stringclass output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20230039.png)
 
