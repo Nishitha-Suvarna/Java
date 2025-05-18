@@ -20,13 +20,13 @@
 
 [SwapLinkedListElements Linkedlist output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-18%20120425.png)
 
-[ string operations String Operation output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20204622.png)
+[string operations String Operation output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20204622.png)
 
 [StringBuffer_StringBuilder  output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20210437.png)
 
 [StringCheck  output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20211402.png)
 
-[program3b2 Stringclass output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20212630.png)
+[CountSubstring  output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20212630.png)
 
 [program3b3 Stringclass output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20221509.png)
 
