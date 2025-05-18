@@ -8,6 +8,7 @@ public class program1b2 {
 		public static void main(String[] args) {
 			// TODO Auto-generated method stub
 			List<String> ls = new ArrayList<>();
+			 // Add colors to the ArrayList
 			ls.add("Orange");
 			ls.add("green");
 			ls.add("pink");
