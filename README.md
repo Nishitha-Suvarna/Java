@@ -30,7 +30,7 @@
 
 [ PalindromeCheck  output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20221509.png)
 
-[program3b4 Stringclass output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20222221.png)
+[removeWhitespace Stringclass output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20222221.png)
 
 [program3b5 Stringclass output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20223252.png)
 
