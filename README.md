@@ -16,7 +16,7 @@
 
 [InsertAtEnd Linkedlist output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20201445.png)
 
-[program1c4 Linkedlist output-link](https://github.com/user-attachments/assets/a05228a9-f201-4eb3-9c86-e91d75058d59)
+[ LinkedListDisplay Linkedlist output-link](https://github.com/user-attachments/assets/a05228a9-f201-4eb3-9c86-e91d75058d59)
 
 [program1c5 Linkedlist output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20202416.png)
 
