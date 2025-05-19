@@ -2,7 +2,7 @@
 capitalizeWords()*/
 package githublab;
 import java.util.Scanner;
-public class program3c1 {
+public class CapitalizingWords {
 	
 
 	
