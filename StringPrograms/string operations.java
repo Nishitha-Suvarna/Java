@@ -7,7 +7,7 @@ contains( ) and startsWith() and endsWith()*/
 package githublab;
 import java.util.*;
 import java.util.Scanner;
-public class program2a {
+public class string operations {
 	    public static void main(String[] args) {
 	        Scanner sc = new Scanner(System.in);
 
