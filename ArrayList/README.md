@@ -2,3 +2,5 @@
 
 [removecolors Arraylist output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20190943.png)
 
+[SortColors Arraylist output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20192404.png)
+
