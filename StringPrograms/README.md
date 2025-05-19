@@ -13,3 +13,11 @@
 [reverseString Stringclass output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20223252.png)
 
 [ CapitalizingWords Stringclass output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20224229.png)
+
+[ Shortening _string Stringclass output-link]()
+
+[Checknumeric_characters Stringclass output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20230039.png)
+
+[randomstringcreation  output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-17%20173451.png)
+
+[wordcounter output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-17%20174803.png)
