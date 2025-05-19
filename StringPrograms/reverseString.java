@@ -2,7 +2,7 @@
 reverseString().*/
 package githublab;
 import java.util.Scanner;
-public class program3b5 {
+public class reverseString {
 	
 
 	    // User-defined function to reverse a string
