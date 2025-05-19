@@ -2,7 +2,7 @@
 l_listobj.offerLast("Pink"))*/
 package githublab;
 import java.util.*;
-public class program1c3 {
+public class InsertAtEnd {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
