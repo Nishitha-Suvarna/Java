@@ -2,7 +2,7 @@
 defined function truncate()*/
 package githublab;
 import java.util.Scanner;
-public class program3c2 {
+public class Shortening _string {
 	
 
 
