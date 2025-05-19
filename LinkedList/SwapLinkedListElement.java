@@ -2,7 +2,7 @@
 Collections.swap(l_list, 0, 2))*/
 package githublab;
 import java.util.*;
-public class program1c5 {
+public class SwapLinkedListElement {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		LinkedList<String> ls = new LinkedList<>();
