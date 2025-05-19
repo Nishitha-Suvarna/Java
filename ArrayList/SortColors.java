@@ -2,7 +2,7 @@
 using Collections.sort( ArrayListObj)*/
 package githublab;
 import java.util.*;
-public class program1b3 {
+public class SortColors {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
