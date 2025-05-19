@@ -3,7 +3,7 @@ using user defined function countOccurrences()*/
 package githublab;
 import java.util.*;
 import java.util.Scanner;
-public class program3b2 {
+public class CountSubstring {
 	    // User-defined function to count occurrences of a substring
 	    public static int countOccurrences(String mainStr, String subStr) {
 	        if (mainStr == null || subStr == null || subStr.isEmpty()) {
