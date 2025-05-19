@@ -2,7 +2,7 @@
 element from the ArrayList object by using remove by index*/
 package githublab;
 import java.util.*;
-public class program1b5 {
+public class DeleteNthColor {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
