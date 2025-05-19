@@ -2,7 +2,7 @@
 2nd element and color "Blue" from the ArrayList*/
 package githublab;
 import java.util.*;
-public class program1b2 {
+public class removecolors {
 	
 
 		public static void main(String[] args) {
