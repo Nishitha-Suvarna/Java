@@ -2,7 +2,7 @@
 specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1))*/
 package githublab;
 import java.util.*;
-public class program1c1 {
+public class IterateFromSecond {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		List<String>	ls = new LinkedList<>();
