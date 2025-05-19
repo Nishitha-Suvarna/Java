@@ -2,7 +2,7 @@
 function removeWhitespace()*/
 package githublab;
 import java.util.Scanner;
-public class program3b4 {
+public class removeWhitespace {
 	
 
 
