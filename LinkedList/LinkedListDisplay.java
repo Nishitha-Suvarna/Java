@@ -2,7 +2,7 @@
 l_listobj.get(p) )*/
 package githublab;
 import java.util.*;
-public class program1c4 {
+public class LinkedListDisplay {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		LinkedList<String> ls = new LinkedList<>();
