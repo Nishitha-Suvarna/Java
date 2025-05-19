@@ -2,7 +2,7 @@
 function isNumeric()*/
 package githublab;
 import java.util.Scanner;
-public class program3c3 {
+public class Checknumeric_characters {
 	
 
 
