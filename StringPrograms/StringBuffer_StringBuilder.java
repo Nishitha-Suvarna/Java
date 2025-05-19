@@ -3,7 +3,7 @@ appending the string ‘AIET’ for 10000 times both in the StringBuffer and Str
 your answer which one is better.*/
 package githublab;
 import java.util.*;
-public class program2b {
+public class StringBuffer_StringBuilder {
 	    public static void main(String[] args) {
 
 	        // Test with StringBuffer
