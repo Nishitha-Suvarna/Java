@@ -2,7 +2,7 @@
 elements 1st and 2nd from the ArrayList object by using SubList()*/
 package githublab;
 import java.util.*;
-public class program1b4 {
+public class ExtractColors {
 	public static void main(String[] args) {
 	List<String> ls = new ArrayList<>();
 		
