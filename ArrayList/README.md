@@ -6,3 +6,5 @@
 
 [ExtractColors Arraylist output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20193512.png)
 
+[DeleteNthColor Arraylist output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20194917.png)
+
