@@ -2,7 +2,7 @@
 objlist.descendingIterator())*/
 package githublab;
 import java.util.*;
-public class program1c2 {
+public class ReverseLinkedList {
 	public static void main(String[] args) {
 	LinkedList<String>	ls = new LinkedList<>();
 	// Add colors to the list
