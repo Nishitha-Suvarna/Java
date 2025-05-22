@@ -58,5 +58,7 @@
 
 [factorial output-link]->(https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-17%20195053.png)
 
+[6c_primenumberchecker output-link]->(https://github.com/Nishitha-Suvarna/Java/blob/main/6c_primenumberchecker/Screenshot%202025-05-22%20214156.png)
+
 
 
