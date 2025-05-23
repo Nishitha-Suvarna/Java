@@ -66,6 +66,8 @@
 
 [8a_coffeeRecord]->(https://github.com/Nishitha-Suvarna/Java/blob/main/8a_coffeeRecord/Screenshot%202025-05-22%20223101.png)
 
+[8b_jspCoffeeApp output-link]->(https://github.com/Nishitha-Suvarna/Java/blob/main/8b_jspCoffeeApp/coffeeupdate.jpeg)
+
 [8c_insertEmployee output-link]->(https://github.com/Nishitha-Suvarna/Java/blob/main/8c_insertEmployee/8c_nishitha.png)
 
 [8d_update_Employee output-link]->(https://github.com/Nishitha-Suvarna/Java/blob/main/8d_update_Employee/8d_nishitha.png)
