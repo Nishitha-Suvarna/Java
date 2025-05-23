@@ -8,6 +8,6 @@
 
 [5b_ColorTabbedPane output-link]->(https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-17%20185946.png)
 
-[5a_CountryCapitalList output-link](https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-17%20191705.png)
+[5a_CountryCapitalList output-link]->(https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-17%20191705.png)
 
 [5d_colortabbedpane output-link]->(https://github.com/Nishitha-Suvarna/Java/blob/main/SwingPrograms/Screenshot%202025-05-23%20094741.png)
