@@ -87,14 +87,20 @@
 # 8d_update_Employee
 [8d_update_Employee output-link]->(https://github.com/Nishitha-Suvarna/Java/blob/main/8d_update_Employee/8d_nishitha.png)
 
-# 9c_append_emp
-[9c_append_emp output-link]->(https://github.com/Nishitha-Suvarna/Java/blob/main/9c_append_emp/nishitha_9c.png)
-
 # 9a_Coffee_DeleteQuery
 [9a_Coffee_DeleteQuery]->(https://github.com/Nishitha-Suvarna/Java/blob/main/9a_Coffee_DeleteQuery/Screenshot%202025-05-23%20000137.png)
 
 # 9b_Coffee_delete 
 [9b_Coffee_delete output-link]->(https://github.com/Nishitha-Suvarna/Java/blob/main/9b_Coffee_delete/Screenshot%202025-05-23%20000526.png)
+
+# 9c_append_emp
+[9c_append_emp output-link]->(https://github.com/Nishitha-Suvarna/Java/blob/main/9c_append_emp/nishitha_9c.png)
+
+# 9d_DeleteEmpByName
+[9d_DeleteEmpByName output-link]->(https://github.com/Nishitha-Suvarna/Java/blob/main/9d_DeleteEmpByName/nishitha_9d.png)
+
+
+
 
 
 
