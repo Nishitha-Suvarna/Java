@@ -96,7 +96,7 @@
 # 🚀9c_append_emp
 [9c_append_emp output-link]->(https://github.com/Nishitha-Suvarna/Java/blob/main/9c_append_emp/nishitha_9c.png)
 
-# 9d_DeleteEmpByName
+# 🚀9d_DeleteEmpByName
 [9d_DeleteEmpByName output-link]->(https://github.com/Nishitha-Suvarna/Java/blob/main/9d_DeleteEmpByName/nishitha_9d.png)
 
 
