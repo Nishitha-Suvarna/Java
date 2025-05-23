@@ -90,6 +90,9 @@
 # 9c_append_emp
 [9c_append_emp output-link]->(https://github.com/Nishitha-Suvarna/Java/blob/main/9c_append_emp/nishitha_9c.png)
 
+# 9a_Coffee_DeleteQuery
+[9a_Coffee_DeleteQuery]->(https://github.com/Nishitha-Suvarna/Java/blob/main/9a_Coffee_DeleteQuery/Screenshot%202025-05-23%20000137.png)
+
 
 
 
