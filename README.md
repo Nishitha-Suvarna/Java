@@ -12,7 +12,7 @@
 
 [1b3_DeleteNthColor Arraylist output-link]->(https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20194917.png)
 
-#1CLinkedList
+# 1CLinkedList
 [1c1_IterateFromSecond Linkedlist output-link]->(https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20195903.png)
 
 [1c2_ReverseLinkedList Linkedlist output-link]->(https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20200730.png)
@@ -23,6 +23,7 @@
 
 [1c5_SwapLinkedListElements Linkedlist output-link]->(https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-18%20120425.png)
 
+# StringPrograms
 [2a_string operations String Operation output-link]->(https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20204622.png)
 
 [2b_StringBuffer_StringBuilder output-link]->(https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20210437.png)
