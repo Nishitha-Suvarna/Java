@@ -1,4 +1,4 @@
-# Arraylist[1a]
+# 1a_Arraylist_linkedlist
 [ 1a_Arraylist_linkedlist output-link]->(https://github.com/Nishitha-Suvarna/Java/blob/main/java1.png)
 
 [1b1_ColorSearch Arraylist output-link]->(https://github.com/Nishitha-Suvarna/Java/blob/main/java1b1.png)
