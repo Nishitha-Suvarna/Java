@@ -1,6 +1,8 @@
 # 1a_Arraylist_linkedlist
 [ 1a_Arraylist_linkedlist output-link]->(https://github.com/Nishitha-Suvarna/Java/blob/main/java1.png)
 
+# 
+
 [1b1_ColorSearch Arraylist output-link]->(https://github.com/Nishitha-Suvarna/Java/blob/main/java1b1.png)
 
 [1b2_removecolors Arraylist output-link]->(https://github.com/Nishitha-Suvarna/Java/blob/main/Screenshot%202025-05-16%20190943.png)
